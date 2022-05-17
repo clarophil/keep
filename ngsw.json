@@ -45,8 +45,8 @@
     {
       "name": "API Note",
       "patterns": [
-        "http:\\/\\/laboweb\\.ecam\\.be:8000\\/api\\/note\\/list",
-        "http:\\/\\/laboweb\\.ecam\\.be:8000\\/api\\/category\\/list"
+        "http:\\/\\/laboweb\\.ecam\\.be\\/keep\\/api\\/note\\/list",
+        "http:\\/\\/laboweb\\.ecam\\.be\\/keep\\/api\\/category\\/list"
       ],
       "strategy": "freshness",
       "maxSize": 20,
